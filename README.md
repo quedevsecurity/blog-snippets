@@ -1,2 +1,2 @@
-# blog-snippets
-A repository that contains all the code snippets from blogs
+# Blog Snippets
+A repository containing all code snippets from blogs.
